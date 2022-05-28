@@ -27,6 +27,7 @@
 5. [Job market using Servlet API & Hibernate](https://github.com/NikolayKharkov/job4j_dreamjob)
 6. [Car accident registration app using Spring](https://github.com/NikolayKharkov/job4j_car_accident)
 7. [Forum using Spring](https://github.com/NikolayKharkov/job4j_forum)
+8. [Rest API Chat](https://github.com/NikolayKharkov/job4j_chat)
 
 ![Rail's github stats](https://github-readme-stats.vercel.app/api?username=NikolayKharkov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayKharkov&layout=compact)](https://github.com/NikolayKharkov/github-readme-stats)
